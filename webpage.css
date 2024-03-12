@@ -1,0 +1,24 @@
+html,body{
+    height: 100%;
+}
+body{
+    margin: 2;
+    
+}
+nav{
+    display:flex;
+    width: 100%;
+    height:20%;
+    background: fixed;
+    align-items: center;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    font-size: larger;
+    color: rgba(0,0,0,0.8);
+    margin: 0 40px;
+}
+body{
+    background-image: url('/photos/girls.jpg');
+}
